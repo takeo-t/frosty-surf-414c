@@ -112,3 +112,8 @@ enabled = true
 # [[vectorize]]
 # binding = "MY_INDEX"
 # index_name = "my-index"
+
+[[d1_databases]]
+binding = "DATABASE"
+database_name = "todo-database"
+database_id = "26f75563-2d09-48f9-b8c7-14fe879cd2fb"
